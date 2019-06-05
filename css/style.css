@@ -1562,3 +1562,7 @@ a.move-top span {
 .la-tere {
   height: 382px;
 }
+.bordesito-papa {
+  border: 3px solid #3ba9a44a;
+  border-radius: 19px;
+}
