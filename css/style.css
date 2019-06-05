@@ -440,7 +440,7 @@ li > a:only-child:after {
 }
 
 a.read-more {
-  background: #03f4eb;
+  background: #3ba8a3;
   color: #fff;
   padding: 0.8em 3em;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.15);
@@ -468,8 +468,8 @@ a.read-more {
 
 .middle-right h6 {
   font-size: 1em;
-  color: #03f4eb;
-  font-weight: 400;
+  color: #3ba8a3;
+  font-weight: 700;
   letter-spacing: 2px;
 }
 
@@ -673,7 +673,7 @@ span.title {
 
 .banner-bottom i.fas {
   font-size: 30px;
-  color: #03f4eb;
+  color: #3ba8a3;
 }
 .banner-bottom span.fas {
   font-size: 30px;
@@ -801,7 +801,8 @@ span.title {
 /* //team */
 
 .about-text-grid a {
-  background: #03f4eb;
+  background: #3ba8a3;
+  font-weight: bold;
   padding: 15px 30px;
   display: inline-block;
   color: #fff;
@@ -962,7 +963,7 @@ h6.b-w3ltxt {
 }
 h6.b-w3ltxt span {
   font-weight: normal;
-  color: #03f4eb;
+  color: #3ba8a3;
   text-transform: capitalize;
   font-size: 16px;
 }
@@ -970,7 +971,7 @@ h6.b-w3ltxt span {
   line-height: 1.8em;
 }
 .testi-cgrid p span.fa {
-  color: #03f4eb;
+  color: #3ba8a3;
 }
 
 .testi-icon img {
