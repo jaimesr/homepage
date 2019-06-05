@@ -99,12 +99,11 @@ nav {
   display: initial;
   margin: 0;
   letter-spacing: 1px;
-  color: #fff;
   padding: 0;
   font-size: 0.8em;
   font-weight: 800;
   text-transform: capitalize;
-  color: #fff;
+  color: #3ba8a3;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.37);
   font-family: "Oswald", sans-serif;
 }
@@ -158,7 +157,7 @@ nav ul li ul li:hover {
 /* Background color change on Hover */
 
 .menu li.active a {
-  color: #03f4eb;
+  color: #3ba8a3;
 }
 
 /* Hide Dropdowns by Default
@@ -1039,11 +1038,11 @@ h6.b-w3ltxt span {
   color: #707579;
 }
 .contact-style-w3ls p span.fa {
-  color: #03f4eb;
+  color: #3ba8a3;
   width: 25px;
 }
 .contact_left_grid button.btn {
-  background: #03f4eb;
+  background: #3ba8a3;
   color: #fff;
   font-size: 16px;
   font-weight: 600;
@@ -1090,7 +1089,7 @@ hr {
   font-size: 1.2em;
   letter-spacing: 1px;
   font-weight: 400;
-  color: #03f4eb;
+  color: #3ba8a3;
 }
 
 /* footer grids */
